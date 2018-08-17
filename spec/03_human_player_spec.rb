@@ -4,6 +4,6 @@ describe 'Players::Human' do
 
 
   describe '#move' do
-    
+
   end
 end
